@@ -25,5 +25,7 @@
     <string name="checkin">Checkin</string>
     <string name="menu_settings">Settings</string>
     <string name="cd_navdrawer_image">Navigation Drawer Image</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
 
 </resources>
