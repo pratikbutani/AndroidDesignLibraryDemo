@@ -19,6 +19,10 @@ Pre-requisites
 - Android Build Tools v22.0.1
 - Android Support Repository v22.2
 
+Special Thanks to
+-------
+https://github.com/chrisbanes
+
 License
 -------
 
